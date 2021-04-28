@@ -1,0 +1,16 @@
+com/lcdev/renameme/BuildConfig.java
+ com.lcdev.renameme.BuildConfig
+com/lcdev/renameme/Global.java
+ com.lcdev.renameme.Global
+com/lcdev/renameme/AuxFunctions.java
+ com.lcdev.renameme.AuxFunctions
+com/lcdev/renameme/InLimbo.java
+ com.lcdev.renameme.InLimbo
+com/lcdev/renameme/MainActivity.java
+ com.lcdev.renameme.MainActivity
+ com.lcdev.renameme.MainActivity$1
+ com.lcdev.renameme.MainActivity$2
+ com.lcdev.renameme.MainActivity$3
+com/lcdev/renameme/Splashscreen.java
+ com.lcdev.renameme.Splashscreen
+ com.lcdev.renameme.Splashscreen$1
